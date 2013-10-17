@@ -1,0 +1,21 @@
+{
+  "version": "1",
+  "name": "Firefox OS Code Example",
+  "launch_path": "index.html",
+  "description": "Firefox OS Code Example shows some WebActivities and Browser APIs examples.",
+  "icons": {
+    "16": "/Firefox-OS-Boilerplate-App/images/logo16.png",
+    "32": "/Firefox-OS-Boilerplate-App/images/logo32.png",
+    "48": "/Firefox-OS-Boilerplate-App/images/logo48.png",
+    "64": "/Firefox-OS-Boilerplate-App/images/logo64.png",
+    "128": "/Firefox-OS-Boilerplate-App/images/logo128.png"
+  },
+  "developer": {
+    "name": "Fabio Magnoni",
+    "url": "http://twitter.com/FabioMagnoni"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en"
+}
